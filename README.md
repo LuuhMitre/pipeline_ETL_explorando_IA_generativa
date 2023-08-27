@@ -1,1 +1,1 @@
-# pipeline_ETL_explorando_IA_generativa
+# Explorando IA Generativa em um Pipeline de ETL com Python
