@@ -1,0 +1,8 @@
+idOrder;costumerName;orderStatus;deliveryTime;statusMessage
+1;Ronaldo;Pedido enviado;6;NULL
+2;Alessandra;Pedido em separação;7;NULL
+3;Lorraine;Pedido em rota de entrega;1;NULL
+4;Luana;Pedido em rota de entrega;1;NULL
+5;Marcos;Pedido em separação;7;NULL
+6;Paulo;Pedido enviado;5;NULL
+7;Luisa;Pedido em separação;7;NULL
